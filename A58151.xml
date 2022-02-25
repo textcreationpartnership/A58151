@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Appendix ad Catalogum plantarum circa Cantabrigiam nascentium continens addenda et emendanda.</title>
+            <title>Catalogus plantarum circa Cantabrigiam nascentium. Appendix</title>
+            <author>Ray, John, 1627-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58151</idno>
+            <idno type="STC">Wing R379</idno>
+            <idno type="STC">ESTC R14337</idno>
+            <idno type="EEBO-CITATION">13337310</idno>
+            <idno type="OCLC">ocm 13337310</idno>
+            <idno type="VID">99111</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58151)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99111)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 435:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Appendix ad Catalogum plantarum circa Cantabrigiam nascentium continens addenda et emendanda.</title>
+                  <title>Catalogus plantarum circa Cantabrigiam nascentium. Appendix</title>
+                  <author>Ray, John, 1627-1705.</author>
+                  <author>Ray, John, 1627-1705. Catalogus plantarum circa Cantabrigiam nascentium.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Excudebat Joan. Field ..., impensis Gulielmi Morden ...,</publisher>
+                  <pubPlace>Cantabrigiæ :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by John Ray. Cf. DNB.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Botany --  England --  Cambridgeshire --  Pre-Linnean works.</term>
+               <term>Botany --  England --  Cambridgeshire --  Catalogs.</term>
+               <term>Botany --  Pre-Linnean works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99111:1" rendition="simple:additions"/>
+            <p>APPENDIX Ad Catalogum Plantarum Circa <hi>CANTABRIGIAM</hi> naſcentium: Continens ADDENDA Et EMENDANDA.</p>
+            <p>
+               <hi>CANTABRIGIAE.</hi> Excudebat <hi>Joan. Field,</hi> celeberrimae Academiae Typographus.</p>
+            <p>Impenſis <hi>Gulielmi Morden,</hi> Bibliopolae. Ann. Dom. 1663.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:99111:2" rendition="simple:additions"/>
+            <pb facs="tcp:99111:2"/>
+            <head>Lectori <hi>S.</hi>
+            </head>
+            <p>EX quo <hi>Catalogum plantarum circa Cantabrigiam naſcentium</hi> in lucem emiſi, alias aliquam multas ſtirpes in agris oppido ei vicinis ſponte proveni<g ref="char:EOLhyphen"/>entes animadverti; quas quoniam jam di<g ref="char:EOLhyphen"/>lectiſsimae nutrici <hi>almae Academiae</hi> non ſponte ſupremum vale dixerim, &amp; in tranſ<g ref="char:EOLhyphen"/>marinas regiones mox diſceſſurus ſum, in unum faſciculum collectas Phytologiae ſtudi<g ref="char:EOLhyphen"/>oſis ſeorſim exhibendas cenſui. Seorſim in<g ref="char:EOLhyphen"/>quam, nam quoad <hi>Cantabrigiae</hi> vixi, cùm nova eis quotannis acceſsio fieret, penes me diu ſervâſſe, nec antea publici juris feciſſe decreveram, quàm Catalogum generalem, quem meditabar, plantarum omnium quae in <hi>Anglia</hi> &amp; inſulis adjacentibus ſponte ori<g ref="char:EOLhyphen"/>untur penitus abſolvere &amp; unà evulgare po<g ref="char:EOLhyphen"/>tuiſſem. Huic ſcilicet ſtudio ſedulus incubui, &amp; plerasque omnes etiam remotiſsimas hu<g ref="char:EOLhyphen"/>jus regni provincias in hunc praecipuè finem obivi &amp; perluſtravi. Verùm quoniam opus illud ut debitam perfectionem acquirat, plu<g ref="char:EOLhyphen"/>rium adhuc annorum obſervationibus indi<g ref="char:EOLhyphen"/>get, plurimaeque ſubinde emergunt difficul<g ref="char:EOLhyphen"/>tates,
+<pb facs="tcp:99111:3"/>quibus omnibus ſuperandis &amp; expedi<g ref="char:EOLhyphen"/>endis neſcio an totum quod ſupereſt vitae ſuf<g ref="char:EOLhyphen"/>ficiat, mutatâ ſententiâ <hi>Catalogum</hi> ab Ap<g ref="char:EOLhyphen"/>pendice ſeparandum judicavi, &amp; nec illius editionem praecipitandam, nec hujus ſuſpen<g ref="char:EOLhyphen"/>dendam. Atque haec breviter de Addendis. Jam quoniam errata etiam nonnulla in <hi>Ca<g ref="char:EOLhyphen"/>talogo Cantabrigienſium plantarum</hi> depre<g ref="char:EOLhyphen"/>hendi, quamvìs nec adeò gravia ſint quin ea ſine inſigni famae detrimento ſupprimere &amp; diſsimulare potuiſſem, nec adeò obvia &amp; ma<g ref="char:EOLhyphen"/>nifeſta, ut à quovis facilè detegi mihique exprobrari poſsint, nè tamen pudor meus ſtudioſae juventuti fraudi foret, impetravi à me ipſe ea ingenuè aperire &amp; veritati po<g ref="char:EOLhyphen"/>tiùs aliorúmque commodis quàm exiſtimati<g ref="char:EOLhyphen"/>ani propriae inſervire.</p>
+         </div>
+      </front>
+      <body>
+         <div type="addenda">
+            <pb facs="tcp:99111:3"/>
+            <head>Addenda.</head>
+            <list>
+               <item>ALcea vulgaris <hi>J. B. Dod. Ad. Lob. Cluſ. hiſt.</hi> vulga<g ref="char:EOLhyphen"/>ris major <hi>C.B.</hi> vulgaris ſive Malva verbenacea <hi>Park.</hi> Malva verbenacea <hi>Ger. Vervain mallow. In Kingſton wood.</hi>
+               </item>
+               <item>Alſine aquatica ſurrectior <hi>J.B.</hi> forté. Plantula Portula<g ref="char:EOLhyphen"/>cae aquaticae affines. <hi>Small upright water Chickweed, called by ſome Blinkes. On the boggy grounds about Gam<g ref="char:EOLhyphen"/>lingay. This is very frequent in many other places of Eng<g ref="char:EOLhyphen"/>land, in watery grounds, and bogs, especially where the ground is ſandy.</hi>
+               </item>
+               <item>Alſine hirſuta altera viſcoſa <hi>C. B.</hi> Spuria 4 <hi>Dod. The broader leaved Mouſe-ear-Chickweed.</hi> Haec omnino di<g ref="char:EOLhyphen"/>ſtincta eſt ab Alſine arvenſi hirſuta magno flore <hi>C.B.</hi> Nimirum <hi>florem</hi> habet minorem, evanidum; <hi>folia</hi> bre<g ref="char:EOLhyphen"/>viora, latiora, pallidiora; caules magìs erectos quàm Alſine myoſotis hirſuta <hi>Ad.</hi> Quinetiam tota planta [caules, folia flores] in ſiccioribus viſcoſa eſt. <hi>This flowers before the other.</hi>
+               </item>
+               <item>Alſine fontana credita floſculorum foliolis non diviſis. An Alſine fontana <hi>Ger?</hi> aquatica media <hi>C.B? Foun<g ref="char:EOLhyphen"/>tain-chickweed.</hi> Ramulos habet tenues, infirmos, hu<g ref="char:EOLhyphen"/>mi procumbentes; folia pallidè virentia, acutiora quàm Alſine media; Floſculorum foliola non ut in illa ad unguem uſque fiſſa, ſed integra &amp; in acutum deſinentia. <hi>Found in many places but eſpecially about Balſham. There is no reaſon why this ſhould be called Fountain-chickweed: we never found it growing in the water.</hi> Floret circa initium Aprilis &amp; deinceps.</item>
+               <item>Aparine ſemine laeviore. <hi>Cleavers or Gooſe-graſs with ſmoother ſeed.</hi> Haec (quod ſciam) nondum deſcripta eſt. Inter ſegetes paſſim.</item>
+               <item>Auricula leporis minima <hi>J.B</hi> An Bupleurum minimum <hi>Col. Park?</hi> An Bupleurum anguſtiſſimo folio <hi>C.B? The ſmalleſt Hares-car. By the way-ſide as you ride to S Neotes
+<pb facs="tcp:99111:4"/>beyond Elles-ly. This I have found in ſundry other places in England,</hi> viz. <hi>in the road to Stilton a little beyond Huntington. At Maldon in Eſſex, about and in the yard where they uſe to build veſſels, near Fullbridge; and upon the banks by the channel ſide there.</hi> Confer cum deſcri<g ref="char:EOLhyphen"/>ptione J. Bauhini.</item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>CAlamintha flore minore, odore pulegii <hi>J. B.</hi> odore pulegii <hi>Ger.</hi> altera odore pulegii foliis maculoſis <hi>Park.</hi> pulegii odore ſive Nepeta <hi>C.B. Field Calamint.</hi> Hanc plantam in Catalogo habui pro Calamintha vulgari: Calamintha tamen quam modò vulgarem puto circa Cheſtertonum &amp; alibi ſponte provenit.</item>
+               <item>Cardui polyacanthi prima ſpecies <hi>Ger. emac.</hi> Aculeoſa Gazae <hi>Ad.</hi> Polyacantha <hi>Tab.</hi> ex ſententia Johnſoni. <hi>Thiſtle upon Thiſtle.</hi>
+               </item>
+               <item>Cardui polyacanthi ſecunda ſpecies <hi>Ger. emac.</hi> Sylve<g ref="char:EOLhyphen"/>ſtris 3 <hi>Dod.</hi> Polyacantha <hi>Lob.</hi> Carduus ſpinoſiſſimus capitulis minoribus <hi>P. B. Welted Thiſtle with ſmall flowers.</hi> Horum deſcriptiones quaere inter nomina cap. 490. l. 2. <hi>Ger. emac. The firſt of theſe grows com<g ref="char:EOLhyphen"/>monly on ditch ſides and among buſhes. The ſecond plen<g ref="char:EOLhyphen"/>tifully on the banks of the river Cam toward the iſle of Ely and elſewhere.</hi>
+               </item>
+               <item>Caryophyllata vulgaris flore majore <hi>C. B. Common A<g ref="char:EOLhyphen"/>veus with a large flower. This was found in the fields ſomewhere about the Town, and brought into our gardens: I do not remember the place.</hi>
+               </item>
+               <item>Catanance leguminoſa quorundam <hi>J. B.</hi> Ervum ſylve<g ref="char:EOLhyphen"/>ſtre <hi>Ger. Dod.</hi> Sylveſtre ſive Catanance <hi>Park.</hi> La<g ref="char:EOLhyphen"/>thyrus V, ſive ſylveſtris minor <hi>C. B. Crimſon graſs Vetch. Found by M<hi rend="sup">r</hi> Dent about Hadnam in the iſle of Ely.</hi>
+               </item>
+               <item>Chamaedrys ſpuria foliis pediculis oblongis inſidenti<g ref="char:EOLhyphen"/>bus. <hi>Wild Germander with leaves ſtanding on long foot<g ref="char:EOLhyphen"/>ſtalks. This plant (as I am informed from M<hi rend="sup">r</hi> Goodyer)
+<pb facs="tcp:99111:4"/>is figured and deſcribed by</hi> Fabius Columna <hi>p.</hi> 288. <hi>un<g ref="char:EOLhyphen"/>der the title of</hi> Alyſſon montanum.</item>
+            </list>
+            <list>
+               <head>D</head>
+               <item>DRyopteris Tragi <hi>Ger. emac.</hi> Filix querna <hi>C. B.</hi> pu<g ref="char:EOLhyphen"/>mila ſaxatilis prima <hi>Cluſ.</hi> pumila ſaxatilis prima Cluſii <hi>Park.</hi> ramoſa minor <hi>J. B. The leſſer branched or female Fern. Obſerved by M<hi rend="sup">r</hi> Dent on Kings-Col<g ref="char:EOLhyphen"/>ledge walls.</hi>
+               </item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>FErrum equinum Germanicum ſiliquis in ſummitate <hi>C. B.</hi> equinum comoſum <hi>Park.</hi> Ornithopodio affinis vel potiùs Soleae aut Ferro equino herba <hi>J. B. Buſh-headed Horſ-ſhoe-vetch. On Gogmagog hills, and on the drier part of Hinton moor and on Newmarket heath,</hi> &amp;c.</item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>GNaphalium Anglicum <hi>Ger.</hi> Anglicum vulgare majus <hi>Park.</hi> majus anguſto oblongo folio alte<g ref="char:EOLhyphen"/>rum <hi>C. B.</hi> rectum <hi>J. B. Great Engliſh Cudweed. In the paſtures about Gamlingay.</hi>
+               </item>
+               <item>Gramen cyperoides ſpicâ pendulâ longiore <hi>Park.</hi> cype<g ref="char:EOLhyphen"/>roides ſpicâ pendulâ longiore &amp; anguſtiore <hi>C. B. J. B.</hi> Pſeudocyperus <hi>Ger. Baſtard Cyperus-graſs with long pendulous heads. In the great ditch at the end of the little Thicket adjoyning to Teverſham moor, and in other great ditches.</hi>
+               </item>
+               <item>Gramen cyperoides anguſtifolium paniculâ multiplici. <hi>Narrow-leaved Cyperus-graſs with many heads. On the banks of many ditches. I cannot find any figure or deſcri<g ref="char:EOLhyphen"/>ption of this. The panicles or heads grow</hi> èfoliorum ſinu<g ref="char:EOLhyphen"/>bus <hi>one above another on the ſtalk, every hea<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> having a long leaf under i<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>HElleboraſter maximus <hi>Ger.</hi> maximus ſive Conſili<g ref="char:EOLhyphen"/>go <hi>Park.</hi> Helleborus niger foetidus <hi>C. B.</hi> Enne<g ref="char:EOLhyphen"/>aphyllon Plinii <hi>lib.</hi> 27. <hi>c.</hi> 9. <hi>Great baſtard Hellebore or
+<pb facs="tcp:99111:5"/>Bears-foot. At Cherry-hinton, in the hedges of a cloſe near to the moor.</hi>
+               </item>
+               <item>Hepatica ſtellata <hi>Ger.</hi> Lichen ſive Hepatica minor ſtel<g ref="char:EOLhyphen"/>laris <hi>Park.</hi> Lichen petraeus ſtellatus <hi>C. B. Star headed Liverwort. On the north ſide of Peter houſe chappel abun<g ref="char:EOLhyphen"/>dantly, obſerved by M<hi rend="sup">r</hi> Dent.</hi>
+               </item>
+               <item>Hepatica umbellata <hi>Ger.</hi> Lichen ſive Hepatica minor umbellata <hi>Park.</hi> Lichen petraeus umbellatus <hi>C. B. Small ground Liverwort with round heads. On the moors.</hi>
+               </item>
+               <item>Hieracium montanum caule aphyllo non amoſo flore pallidiore. An Hieracium montanum hirſutum mi<g ref="char:EOLhyphen"/>nus <hi>G. B? Mountain Hawk-weed with a pale flower. On Gogmagog hills and Newmarket heath. The flower of this plant doth much reſemble the flower of Mouſe-ear The leaf (as far as I remember) is not laciniated, but in ſome waved a little.</hi>
+               </item>
+               <item>Hypericum majus ſive Androſaemum Matthioli <hi>Park.</hi> Hypericum Androſaemum dictum <hi>J. B.</hi> Androſae<g ref="char:EOLhyphen"/>mum Hypericoides <hi>Ger.</hi> alterum foliis Hyperici, quod aliquibus Hypericoides <hi>C. B. Tutſan-S<hi rend="sup">t</hi> Johns wort.</hi> In dumetis &amp; ſepibus paſſim.</item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>LOnchitis aſpera <hi>Dod. Ger.</hi> minor <hi>C. B.</hi> aſpera mi<g ref="char:EOLhyphen"/>nor <hi>Park. Matth. Cam. Lugd.</hi> altera folio Poly<g ref="char:EOLhyphen"/>podii <hi>J. B. Rough Spleen-wort. About Gamlingay.</hi>
+               </item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>MUſcus filicinus <hi>Ger. J. B. Park.</hi> filicinus major <hi>C. B. Fern-moſs. In Kingſton and Everſden woods, and the woods about Balſham.</hi>
+               </item>
+               <item>Muſcus triangularis aquaticus. <hi>Triangular water-moſs.</hi> Valdè <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>milis eſt hic muſcus terreſtri denticulato Lo<g ref="char:EOLhyphen"/>belii. <hi>In the river beyond Stretham ferry. I found it ſince in a well in Carnarvan-ſhire in Wales, called Gods well, but always immerſed in the water. I took it once to be the</hi> Fontalis minor lucens <hi>J. B. but he doth not
+<pb facs="tcp:99111:5"/>mention the leaves of that to be ſo diſpoſed all along the ſtalk as to make it appear triangular.</hi>
+               </item>
+            </list>
+            <list>
+               <head>O</head>
+               <item>ORchis ſive Teſticulus Sphegodes hirſuto flore <hi>J. B.</hi> An Orchis fucum referens colore rubiginoſo <hi>C. B?</hi> Quid ſibi velint Gerardus &amp; Parkinſonus no<g ref="char:EOLhyphen"/>ſtrates in Orchidum hiſtoria non ſatìs perſpicio: puto tamen Parkinſonum hanc intellegere per Orchidem ſuam Sphegodem alteram, ſed eam perperam deſcri<g ref="char:EOLhyphen"/>bit (alis ſc. purpuraſcentibus, cùm hujus ex luteo vi<g ref="char:EOLhyphen"/>reſcant) Fortè Gerardo Teſticulus vulpinus major Sphegodes. <hi>The green-winged Humble-bee Orchis.</hi> Floret circa finem Aprilis &amp; initium Maii, unà cum orchide morione foemina. <hi>In an old gravel-pit near Shelford by the foot way from Trumpington to the church we found hundreds of them.</hi>
+               </item>
+               <item>Orchis puſilla odorata <hi>Park.</hi> parva autumnalis lutea <hi>J. B.</hi> odorata moſchata ſive Monorchis <hi>C. B. The ſweet yellow musk Orchis. In the chalk-pit cloſe at Cher<g ref="char:EOLhyphen"/>ry-hinton.</hi>
+               </item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>PEplus ſive Eſula rotunda <hi>J. B. C. B. Ger.</hi> Eſula rotunda ſive Peplos <hi>Park. Pe<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ty Spurge.</hi> Secus vias &amp; in hortorum marginibus.</item>
+               <item>Phyllitis <hi>Ger. Dod. ut.</hi> Phyllitis ſive Lingua cervina vulgi <hi>J. B.</hi> Lingua cervina officinarum <hi>C. B.</hi> Phyl<g ref="char:EOLhyphen"/>litis ſive Lingua cervina vulgaris <hi>Park. Harts-tongue. On the walls of Cherry-hinton church and elſwhere.</hi>
+               </item>
+               <item>Piloſella ſiliquata major &amp; minor <hi>Thal.</hi> Burſa paſtoria ſive Piloſella ſiliquoſa <hi>J. B.</hi> Burſae paſtoris ſimilis ſiliquoſa major &amp; minor <hi>C. B.</hi> Paronychia major &amp; Paronychia altera minor <hi>Park.</hi> Haec duo ſc. exi<g ref="char:EOLhyphen"/>ſtimat Jo. Bauhinus non ſpecie differre, ſed ſtaturâ &amp; magnitudine tantúm. <hi>Godded Mouſ-ear. In ſome cloſes on the north ſide of Gamlingay.</hi>
+               </item>
+               <item>Plantaginella paluſtris <hi>C. B.</hi> Plantago aquatica mini<g ref="char:EOLhyphen"/>ma
+<pb facs="tcp:99111:6"/>
+                  <hi>Cluſ.</hi> aquatica minima Cluſii <hi>Park. The ſmalleſt water Plantain.</hi> Secus vias ubi per hyemem aquae ſtagnârunt. Aut haec eadem eſt Plantagini aquaticae minimae Cluſii, aut ei valdè affinis: in omnibus non reſpondet ejus deſcriptioni.</item>
+               <item>Pulmonaria Gallica ſive aurea latifolia <hi>Ger.</hi> Hieraci<g ref="char:EOLhyphen"/>um murorum folio piloſiſſimo <hi>C. B.</hi> Hieraci<g ref="char:EOLhyphen"/>um murorum Bauhini quod eſt Pulmonaria Gallo<g ref="char:EOLhyphen"/>rum Lobelii <hi>Park.</hi> Piloſella major quibuſdam, aliis Pulmonaria flore luteo <hi>J. B. French or golden Lung<g ref="char:EOLhyphen"/>wort. About Gamlingay.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Q. R.</head>
+               <item>RAnunculus hirſutus arvenſis flore minimo. <hi>Field Crowfoot with a ſmall flower.</hi> An haec planta jam ante ab aliis edita &amp; deſcripta ſit, mihi compertum non eſt, nec ad manum ſunt autores quos conſulam. <hi>Folia</hi> hirſuta pallidè virent, Flores lutei ſunt, omni<g ref="char:EOLhyphen"/>um quos ego in Ranunculis obſervavi minimi. Plan<g ref="char:EOLhyphen"/>ta ipſa, quantùm memini, non erigitur, ſed denſo velut ceſpite terram operit.</item>
+               <item>Ranunculus rectus foliis pallidioribus hirſutus <hi>J. B.</hi> apud quem plena habetur &amp; accurata deſcriptio. <hi>Upright pale-leaved ſweet Crowfoot.</hi> In locis humidis &amp; lutoſis, praecipuè ubi per hyemem aquae ſtagnâ<g ref="char:EOLhyphen"/>runt.</item>
+               <item>Ranunculus rectus, non repens flore ſimplici luteo <hi>J. B.</hi> Ranunculus ſurrectis cauliculis <hi>Ger.</hi> pratenſis erectus acris an dulcis <hi>C. B?</hi> pratenſis erectus acris vulgaris an dulcis <hi>Park? Upright Field Crowfoot.</hi> An hic acris ſit, an dulcis mihi non certò conſtat ſi bene memini quem mihi guſtare contigit dulcis fuit. Attendatur deſcriptio Jo. Bauhini. In pratis.</item>
+               <item>Rubia cynonchica <hi>J. B.</hi> VI ſive cynanchica <hi>C. B.</hi> Synanchica Lugd. p. 1125 <hi>Ger. Squinancy-wort. On Gogmagog hills. and Newmarket heath.</hi>
+               </item>
+               <item>Ruſcus <hi>J. B. C. B. Park. Ad. Lob.</hi> Ruſcus ſive Bruſcus
+<pb facs="tcp:99111:6"/>
+                  <hi>Ger.</hi> Myrtacantha, murina ſpina <hi>Lob. ico.</hi> Oxymyr<g ref="char:EOLhyphen"/>ſine <hi>Ang. Butchers broom. About Angleſey-abbey.</hi> Ra<g ref="char:EOLhyphen"/>dix hujus plantae eſt è numero quinque illarum ape<g ref="char:EOLhyphen"/>rientium famoſarum. Reliquae ſunt <hi>Apii, Aſparagi, Foeniculi, Petroſelini.</hi>
+               </item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>SCabioſa vulgaris flore pleno. <hi>Double flowered Sca<g ref="char:EOLhyphen"/>bious.</hi> In hujus flore foliola fiſtuloſa quae per am<g ref="char:EOLhyphen"/>bitum non ampliora ſunt quàm interiora, ut in vul<g ref="char:EOLhyphen"/>gari Scabioſa; ſed aequalia perinde ac in ſucciſa. Ca<g ref="char:EOLhyphen"/>ret inſuper Staminulis illis capitatis quae in vulgari cernuntur. <hi>In many cloſes about Teverſham and elſe<g ref="char:EOLhyphen"/>where together with the common ſort.</hi>
+               </item>
+               <item>Selinum Sii foliis <hi>Ger. Park. Honewort. On many ditch<g ref="char:EOLhyphen"/>banks about Cambridge.</hi> Haec planta affinis eſt Amomo Germanico dicto, &amp; omnino paſtinacis accenſeri de<g ref="char:EOLhyphen"/>bet, quibuſcum &amp; odore &amp; ſapore &amp; externa ſpe<g ref="char:EOLhyphen"/>cie convenit.</item>
+               <item>Surpylli vulgaris primum genus <hi>J. B. The other com<g ref="char:EOLhyphen"/>mon Mother Thyme. In many places together with the common ſort.</hi> Conſule J. Bauhinum de Serpyllo vul<g ref="char:EOLhyphen"/>gari, qui exactè notat differentias inter has duas ſpecies.</item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>Trifolium pumilum ſupinum floſculis longis albis non<g ref="char:EOLhyphen"/>dum deſcriptum <hi>P. B. Dwarf Trefoil with long white flowers. At Gamlingay by the lanes-ſide as you go up from the Town to the Windmils.</hi>
+               </item>
+            </list>
+            <list>
+               <head>V</head>
+               <item>VIrga aurea <hi>Ger. Matth. Dod. ut.</hi> aurea vulgaris <hi>Park.</hi> aurea vulgaris latifolia <hi>J. B.</hi> aurea IV. ſive an<g ref="char:EOLhyphen"/>guſtifolia minùs ſerrata <hi>C. B. Golden Rod. In ſome paſtures about Gamlingay.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="emendations">
+            <pb facs="tcp:99111:7"/>
+            <pb facs="tcp:99111:7"/>
+            <head>Emendanda, in quibus quaedam mu<g ref="char:EOLhyphen"/>tanda &amp; ſupplenda.</head>
+            <list>
+               <head>A</head>
+               <item>ABrotanum campeſtre &amp; Abrotanum inodo<g ref="char:EOLhyphen"/>rum] <hi>Si placet expungantur ambo. I beleeve nei<g ref="char:EOLhyphen"/>ther of them is to be found on Newmarket heath, at leaſt that part of it which is in Cambridge-ſhire.</hi>
+               </item>
+               <item>Allium ſylveſtre] <hi>Huic adde Synon:</hi> Allium campeſtre junci-folium capitatum majus <hi>C. B.</hi>
+               </item>
+               <item>Anagallis aquatica I, &amp; Anagallis aquatica III <hi>C. B.</hi>] <hi>Et haec pariter expungantur. Ego ſc. has differentias apud nos nunquam potui obſervare. D. Nid ex conjectura &amp; praeſumptione Catalogo inſeruit, quoniam Botanici vulgò &amp; praecipué Jo. Bauhinus paſſim &amp; promiſcuè quatuor varietates hîc recenſitas creſcere affirmat.</hi>
+               </item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>BLitum album minus] <hi>I now think the plant we found in Kingſton wood to be the ſame with the com<g ref="char:EOLhyphen"/>mon red Blite<g ref="char:punc">▪</g> and that it differed in colour by reaſon of the ſhadineſs of the place where it grew.</hi>
+               </item>
+               <item>Burſa paſtoris minor] <hi>Haec planta non videtur ſpecie dif<g ref="char:EOLhyphen"/>ferre à Naſturtio Alpino petraeo.</hi> Certè Jo. Bauhinus <hi>Naſturtium petraeum Tab. hujus ſynonymum facit. Ve<g ref="char:EOLhyphen"/>rùm nihil temerè pronuncio.</hi>
+               </item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>CArduus lanceatus anguſtifolius] <hi>faceſſat: nec enim puto apud nos in hoc genere obſervabile eſſe ullum diſcrimen.</hi>
+               </item>
+               <item>Carduus nutans] An Carduus ſpinoſiſſimus latifolius Sphaerocephalus vulgaris <hi>C. B?</hi> Intelligo jam hunc cenſeri Carduum moſchatum <hi>Ger.</hi> Nec tamen mo<g ref="char:EOLhyphen"/>ſchi odor in floribus mihi unquam perceptus, neque florum color pallidè purpureus eſt ſed ſaturatior, nec tandem figura ipſa reſpondet.</item>
+            </list>
+            <list>
+               <pb facs="tcp:99111:8"/>
+               <head>E</head>
+               <item>EChium alterum] Fateor me nondum percipere ſpecificum aliquod diſcrimen inter Echium vulgare, &amp; illud quod apud nos in muris paſſim provenit. Alii ſtrictiùs examinent.</item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>GEranium malacoides ſive columbinum minus] <hi>Mihi non ſatìs conſtat an plantula quam hîc intel<g ref="char:EOLhyphen"/>ligimus omnino eadem ſit ſpecie</hi> Geranio columbino minori <hi>C. B.</hi>
+               </item>
+               <item>Gramen alopecuroides minus ſpica aſperâ brevi] Hoc Botanici Londinenſes Gramen criſtatum nuncu<g ref="char:EOLhyphen"/>pant, nec ego abnuerim.</item>
+               <item>Gramen caninum] Hoc idem eſt quod Jo. Bauhinus deſcribit ſub titulo allato: ideóque retractanda ſunt quae hîc annotavi, nec enim ipſe paniculam obſer<g ref="char:EOLhyphen"/>va veram ante quam Catalogum edidi: ſed aliis te<g ref="char:EOLhyphen"/>merè credidi.</item>
+               <item>Gramen hirſutum majus] Suſpicor jam Gramen hoc non differre ſpecificè à Gramine exili hirſuto, ſed m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnitudine tantùm aliísque accidentibus, ratione loci in quo creſcit.</item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>MOllugo montana ſive Gallium] <hi>Haec duo ſynoni<g ref="char:EOLhyphen"/>ma</hi> Rubia ſylvatica altera <hi>Geſn.</hi> &amp; Matriſyl<g ref="char:EOLhyphen"/>va 2 <hi>Trag.</hi> huc non pertinent ſed ad Molluginem Dodonaei primam, quae rotundam habet caulem &amp; erecta eſt.</item>
+               <item>Nondum mihi planè compertum eſt, quò referen<g ref="char:EOLhyphen"/>da ſit haec planta quae paſſim in ſepibus creſcit; <hi>viz.</hi> an ad Molluginem, quo hîc retulimus, an ad Ru<g ref="char:EOLhyphen"/>biam ſylveſtrem. Non dubito quin eadem haec ſit quam Jo. Bauhinus deſcripſit ſub titulo <hi>Rubiae an<g ref="char:EOLhyphen"/>guloſae aſperae,</hi> quin &amp; Botanici Londinenſes <hi>Rubiam ſylveſtrem</hi> eam nominant. Mihi veriſimile eſt ſub utroque titulo eandem plantam deſcribi. Dubitat
+<pb facs="tcp:99111:8"/>ſcil. Jo. Bauhinus an Rubiae ſuae anguloſae reſpon<g ref="char:EOLhyphen"/>deat Mollugo <hi>Cluſ.</hi> necne. Jam vero Mollugo <hi>Gluſis</hi> eadem eſt Mollugini primae <hi>Dod.</hi> Mollugini monta<g ref="char:EOLhyphen"/>nae <hi>Ger.</hi> Mollugini vulgatiori <hi>Park.</hi> Nam figura ubi<g ref="char:EOLhyphen"/>que eadem; atque tum figura tum deſcriptio huic plantae conveniunt: at Rubiae ſylveſtris apud <hi>Ger. &amp; Park.</hi> deſcriptiunculae non item.</item>
+               <item>C. Bauhinus malè applicat Molluginem <hi>Cluſ.</hi> &amp; Molluginem montanam <hi>Ger.</hi> Mollugini ſuae primae ſeu montanae ramoſae latifoliae; cùm haec ſynonyma ad ſecundam ſpectant non minùs quàm Mollugo prima <hi>Dod.</hi>
+               </item>
+            </list>
+            <list>
+               <head>O</head>
+               <item>ORiganum vulgare] <hi>The plant that grows in Bowyers cloſe at Cherry-hinton is not this, but</hi> Clinopodium vulgare. <hi>We miſtook it when it was young.</hi>
+               </item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>POlygalon Cortuſi] Pro hoc ſubſtitue, Ferrum equinum Germanicum ſiliquis in ſummitate <hi>C. B.</hi> cujus ſynonyma quaere in Addendis.</item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>RAnunculus hederaceus rivulorum, &amp;c.] Plantae hujus flores albi ſunt, non lutei prout conjecta<g ref="char:EOLhyphen"/>bamur; &amp; in aquoſis paſſim oritur: Proinde ſyno<g ref="char:EOLhyphen"/>nyma allegata ei non reſpondent, niſi fortè in tranſ<g ref="char:EOLhyphen"/>marinis floris colore variet.</item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>SAxifraga Anglica Occidentalium] loco Saxifra<g ref="char:EOLhyphen"/>gae Anglicae alſinefoliae <hi>Ger. emac.</hi> ſubſtitue Sy<g ref="char:EOLhyphen"/>nanchica Lugd. p. 1125 <hi>Ger. emac.</hi> &amp; adde ſyno<g ref="char:EOLhyphen"/>nyma Rubia cynanchica <hi>J. B.</hi> VI, ſive cynanchi<g ref="char:EOLhyphen"/>ca <hi>C. B.</hi>
+               </item>
+               <item>Saxifraga graminea puſila] <hi>I finde upon comparing that this is the ſame plant deſcribed by Johnſon upon Gerard under the name of</hi> Saxifraga Anglicana alſinefolia <hi>or Pearlwort.</hi>
+               </item>
+            </list>
+            <list>
+               <pb facs="tcp:99111:9"/>
+               <head>T</head>
+               <item>TIthymalus helioſcopius<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Hujus altera ſpecies quam folio non crenato &amp; minorem dix mus ea<g ref="char:EOLhyphen"/>dem eſt cum Peplo ſive Eſula rotunda Herbario<g ref="char:EOLhyphen"/>rum; quam vide in appendice priore.</item>
+            </list>
+            <list>
+               <head>V</head>
+               <item>VIcia parva ſive Cracca minor cum ſiliquis pluri<g ref="char:EOLhyphen"/>mis hirſutis d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leatur<g ref="char:punc">▪</g> Bis enim ponitur, ſu<g ref="char:EOLhyphen"/>perius ſub Araco.</item>
+            </list>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
